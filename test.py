@@ -1,2 +1,2 @@
 
-print("ABC")
+print("success")
